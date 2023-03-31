@@ -29,7 +29,9 @@ public class Linguagem {
     public int getRanking() {
         return ranking;
     }
-    
+    public void setId(String id) {
+        this.id = id;
+    }
 
 
 }
