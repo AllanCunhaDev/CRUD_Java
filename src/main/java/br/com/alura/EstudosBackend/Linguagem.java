@@ -17,6 +17,9 @@ public class Linguagem {
         this.image = image;
         this.ranking = ranking;
     }
+    public String getId() {
+        return id;
+    }
     public String getTitle() {
         return title;
     }
